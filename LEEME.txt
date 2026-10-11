@@ -1,0 +1,11 @@
+TREN DEL FIN DEL MUNDO — PROYECTO ACADÉMICO
+
+Contenido: index.html (sitio web adaptable a celulares y computadoras).
+
+Cómo usar: abrir index.html en un navegador con conexión a Internet. Las imágenes, el mapa y enlaces oficiales usan recursos externos.
+
+Publicación: subí el contenido de esta carpeta a un hosting estático, por ejemplo Netlify Drop. Si la plataforma no acepta ZIP, descomprimí el archivo y subí la carpeta que contiene index.html.
+
+Importante: los formularios son demostrativos, no envían ni almacenan datos. No se procesan pagos, no se consulta disponibilidad real y los comprobantes no son tickets válidos. Tarifas, horarios, servicios y condiciones deben confirmarse con el operador oficial: https://trendelfindelmundo.com.ar/
+
+Esta es una maqueta educativa independiente, no un sitio oficial ni afiliado al operador.
